@@ -14,9 +14,12 @@ public class demo {
 		// action 
 		System.out.println(name +" is walking"); 
 		System.out.println(name +" is eating"); 		
-		
-		
-		
+
+		System.out.println(name +" is eating"); 		
+
+		System.out.println(name +" is eating"); 		
+
+			
 		
 	}
 
