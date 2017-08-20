@@ -17,7 +17,7 @@ public class demo {
 
 		System.out.println(name +" is eating"); 		
 
-		System.out.println(name +" is eating"); 		
+		System.out.println(name +" isfood"); 		
 
 			
 		
